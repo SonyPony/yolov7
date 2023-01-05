@@ -1,0 +1,6 @@
+train: ./dataset/targets/train.txt
+val: ./dataset/targets/valid.txt
+test: ./dataset/targets/test.txt
+
+nc: 1
+names: ['target']

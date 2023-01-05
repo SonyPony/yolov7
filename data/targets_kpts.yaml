@@ -1,0 +1,6 @@
+train: ./dataset/targets_kpts/train.txt
+val: ./dataset/targets_kpts/valid.txt
+test: ./dataset/targets_kpts/test.txt
+
+nc: 6
+names: ['target', 'center', 'top_left', 'top_right', 'bottom_right', 'bottom_left']
